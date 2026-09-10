@@ -1,6 +1,8 @@
 import { useEffect, useState, useRef } from "react";
 import "./App.css";
 import { supabase } from "./supabaseClient";
+const API_BASE_URL =
+  import.meta.env.VITE_API_BASE_URL || "http://127.0.0.1:8000";
 
 /* =========================================================
    DEMO DATA
@@ -164,7 +166,6 @@ const interviewQuestions = [
    IBM WATSONX ORCHESTRATE API HELPERS
 ========================================================= */
 
-const API_BASE_URL = "http://127.0.0.1:8000";
 
 function getQuestionCategory(question, focus) {
   const text = question.toLowerCase();
