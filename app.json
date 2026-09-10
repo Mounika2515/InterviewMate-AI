@@ -1,0 +1,30 @@
+{
+  "name": "InterviewMate AI",
+  "version": "1.0.0",
+  "description": "An Agentic AI-powered personalized interview training and career preparation platform.",
+  "problem_statement": "Problem Statement No. 22 – Interview Trainer Agent",
+  "technologies": [
+    "IBM watsonx Orchestrate",
+    "IBM Granite",
+    "RAG",
+    "React",
+    "FastAPI",
+    "Python",
+    "Supabase PostgreSQL"
+  ],
+  "features": [
+    "Resume Analysis",
+    "Personalized Question Generation",
+    "AI Mock Interview",
+    "Answer Evaluation",
+    "Voice-based Interview Practice",
+    "Question Bank Chatbot"
+  ],
+  "agents": [
+    "Resume Analyzer Agent",
+    "Question Generator Agent",
+    "Mock Interviewer Agent",
+    "Evaluation Agent",
+    "InterviewMate Orchestrator"
+  ]
+}

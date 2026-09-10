@@ -1,0 +1,5 @@
+Mounika
+B.Tech Computer Science AI ML
+Skills: Python, Machine Learning, SQL
+Projects: Iris Classification, Titanic Prediction
+Certifications: AI ML Fundamentals
