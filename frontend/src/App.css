@@ -817,7 +817,7 @@ a {
 
 .page-heading h1 {
   margin: 0;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 800;
   letter-spacing: -0.5px;
   color: #1a2230;
@@ -825,7 +825,7 @@ a {
 
 .page-heading p {
   margin: 8px 0 0;
-  font-size: 16px;
+  font-size: 14px;
   color: #64748b;
   line-height: 1.6;
 }
@@ -843,8 +843,8 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 18px;
-  min-height: 320px;
-  padding: 58px 62px;
+  min-height: 260px;
+  padding: 42px 48px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -858,7 +858,7 @@ a {
 
 .welcome-label {
   margin: 0 0 8px;
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 800;
   letter-spacing: 1.5px;
   text-transform: uppercase;
@@ -867,7 +867,7 @@ a {
 
 .welcome-card h1 {
   margin: 0;
-  font-size: 52px;
+  font-size: 42px;
   font-weight: 800;
   line-height: 1.25;
   letter-spacing: -0.6px;
@@ -876,16 +876,16 @@ a {
 
 .welcome-card p {
   max-width: 760px;
-  margin: 20px 0 0;
+  margin: 14px 0 0;
   color: #64748b;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.65;
 }
 
 .welcome-card .primary-button {
-  margin-top: 28px;
-  padding: 17px 28px;
-  font-size: 18px;
+  margin-top: 20px;
+  padding: 13px 22px;
+  font-size: 15px;
 }
 
 .welcome-illustration {
@@ -923,7 +923,7 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 16px;
-  padding: 22px 24px;
+  padding: 18px 20px;
 }
 
 .stat-top {
@@ -951,8 +951,8 @@ a {
 }
 
 .stat-value {
-  margin: 14px 0 6px;
-  font-size: 34px;
+  margin: 10px 0 5px;
+  font-size: 28px;
   font-weight: 800;
   color: #1a2230;
 }
@@ -979,26 +979,26 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 18px;
-  padding: 26px 28px;
+  padding: 21px 23px;
 }
 
 .card-heading {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 22px;
+  margin-bottom: 17px;
 }
 
 .card-heading h2 {
   margin: 0;
-  font-size: 25px;
+  font-size: 21px;
   font-weight: 800;
   color: #1a2230;
 }
 
 .card-heading p {
   margin: 6px 0 0;
-  font-size: 15px;
+  font-size: 13px;
   color: #64748b;
   line-height: 1.5;
 }
@@ -1025,8 +1025,8 @@ a {
 .quick-start-item {
   display: flex;
   align-items: center;
-  gap: 16px;
-  padding: 16px 18px;
+  gap: 13px;
+  padding: 13px 15px;
   border: 1px solid #edf0f3;
   border-radius: 13px;
   transition: 0.18s ease;
@@ -1055,14 +1055,14 @@ a {
 
 .quick-start-content h3 {
   margin: 0;
-  font-size: 16.5px;
+  font-size: 15px;
   font-weight: 800;
   color: #1a2230;
 }
 
 .quick-start-content p {
   margin: 5px 0 0;
-  font-size: 14px;
+  font-size: 13px;
   color: #64748b;
   line-height: 1.5;
 }
@@ -1086,7 +1086,7 @@ a {
 .feature-card {
   border: 1px solid #e9edf1;
   border-radius: 14px;
-  padding: 20px 22px;
+  padding: 16px 18px;
   background: #ffffff;
   transition: 0.18s ease;
 }
@@ -1110,7 +1110,7 @@ a {
 
 .feature-card h3 {
   margin: 0;
-  font-size: 19px;
+  font-size: 16px;
   font-weight: 800;
   color: #1a2230;
 }
@@ -1118,7 +1118,7 @@ a {
 .feature-card p {
   margin: 6px 0 0;
   color: #64748b;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.6;
 }
 
@@ -1359,30 +1359,30 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 18px;
-  padding: 36px 40px;
+  padding: 28px 32px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
 }
 
 .setup-card-header {
-  margin-bottom: 28px;
+  margin-bottom: 22px;
 }
 
 .setup-card-header h2 {
   margin: 0;
-  font-size: 24px;
+  font-size: 21px;
   font-weight: 800;
 }
 
 .setup-card-header p {
   margin: 8px 0 0;
-  font-size: 15px;
+  font-size: 13px;
   color: #64748b;
 }
 
 .setup-form {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 19px;
 }
 
 .form-group {
@@ -1392,21 +1392,21 @@ a {
 }
 
 .form-group label {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 750;
   color: #1e293b;
 }
 
 .form-group input,
 .form-group select {
-  min-height: 52px;
+  min-height: 46px;
   border: 1.5px solid #dfe4ea;
   border-radius: 12px;
   padding: 0 16px;
   outline: none;
   background: #ffffff;
   color: #1e293b;
-  font-size: 15.5px;
+  font-size: 14px;
   font-weight: 550;
   transition: all 0.2s ease;
 }
@@ -1528,11 +1528,11 @@ a {
 
 .question-bank-card {
   display: flex;
-  gap: 20px;
+  gap: 16px;
   background: #ffffff;
   border: 1px solid #e6eaf0;
   border-radius: 16px;
-  padding: 22px;
+  padding: 17px;
   transition: 0.2s ease;
 }
 
@@ -1602,7 +1602,7 @@ a {
 
 .question-bank-content h3 {
   margin: 0;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.55;
   font-weight: 650;
   color: #242b36;
@@ -1696,7 +1696,7 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 14px;
-  padding: 17px 20px;
+  padding: 14px 17px;
   margin-bottom: 20px;
 }
 
@@ -1726,7 +1726,7 @@ a {
   background: #ffffff;
   border: 1px solid #e5e9ef;
   border-radius: 18px;
-  padding: 30px;
+  padding: 24px;
 }
 
 .question-header {
@@ -1762,7 +1762,7 @@ a {
 
 .interview-question-card h2 {
   margin: 0;
-  font-size: 24px;
+  font-size: 21px;
   line-height: 1.45;
   color: #202631;
 }
